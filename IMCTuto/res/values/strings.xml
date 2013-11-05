@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Votre IMC</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <color name="red">#FF0000</color>
+    <string name="weightLabel">Poid</string>
+    <string name="sizeLabel">Taille</string>
+    <string name="metreButton">Mètre</string>
+    <string name="centimetreButton">Centimètre</string>
+    <string name="mega">Méga fonction!</string>
+    <string name="computeButton">Calculer IMC</string>
+    <string name="razButton">RAZ</string>
+    <string name="resultLabel">Résultat</string>
+    <string name="resultStandard">Vous devez cliquer sur le bouton &quot;Calculer l'IMC&quot; pour obtenir un résultat</string>
+
+</resources>
